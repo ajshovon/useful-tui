@@ -14,7 +14,7 @@ A collection of terminal-based utilities designed to improve workflow and produc
 
 ## Others
 
-- [superfile](superfile) - Pretty fancy and modern terminal file manager. `go`
+- [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager. `go`
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub. `go`
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O. `rust`
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub. `go`
